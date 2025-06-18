@@ -45,6 +45,8 @@ SDRSharp Web is an open-source web application that allows you to control and in
 
 4. Open your browser and navigate to `http://localhost:3000`
 
+![RTL-SDR Web Interface](rtlsdr.gif)
+
 ## Usage
 
 1. Connect your RTL-SDR device to your computer
