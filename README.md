@@ -2,8 +2,6 @@
 
 A web-based SDRSharp client for controlling RTL-SDR devices directly from your browser.
 
-![SDRSharp Web](public/placeholder-logo.svg)
-
 ## Overview
 
 SDRSharp Web is an open-source web application that allows you to control and interface with RTL-SDR (Software Defined Radio) devices through your web browser. This project leverages WebUSB technology to establish direct connections to RTL-SDR hardware without requiring additional drivers or software installations.
